@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><exam>
+	<student Idnum="1990" examid="111">
+		<name>张三</name>
+		<location>北京</location>
+		<grade>95</grade>
+	</student>
+	<student Idnum="1990" examid="112">
+		<name>张三</name>
+		<location>北京</location>
+		<grade>95</grade>
+	</student>
+
+	<student Idnum="1990" examid="113">
+		<name>张三</name>
+		<location>北京</location>
+		<grade>95</grade>
+	</student>
+
+	
+	<student Idnum="321" examid="123">
+		<name>杨柳</name>
+		<location>北极</location>
+		<grade>61</grade>
+	</student>
+</exam>
